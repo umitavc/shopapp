@@ -1201,39 +1201,37 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sadikturan\\.nuget\\packages\\": {}
+    "C:\\Users\\umit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\4-Katmanlı Proje Yapısının Kurulması\\9-Test Verilerinin Otomatik Eklenmesi\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
+      "projectUniqueName": "C:\\Users\\umit\\Documents\\CSharpProject\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
       "projectName": "shopapp.webui",
-      "projectPath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\4-Katmanlı Proje Yapısının Kurulması\\9-Test Verilerinin Otomatik Eklenmesi\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
-      "packagesPath": "C:\\Users\\sadikturan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\4-Katmanlı Proje Yapısının Kurulması\\9-Test Verilerinin Otomatik Eklenmesi\\shopapp\\shopapp.webui\\obj\\",
+      "projectPath": "C:\\Users\\umit\\Documents\\CSharpProject\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
+      "packagesPath": "C:\\Users\\umit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\umit\\Documents\\CSharpProject\\shopapp\\shopapp.webui\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sadikturan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\umit\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\4-Katmanlı Proje Yapısının Kurulması\\9-Test Verilerinin Otomatik Eklenmesi\\shopapp\\shopapp.business\\shopapp.business.csproj": {
-              "projectPath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\4-Katmanlı Proje Yapısının Kurulması\\9-Test Verilerinin Otomatik Eklenmesi\\shopapp\\shopapp.business\\shopapp.business.csproj"
+            "C:\\Users\\umit\\Documents\\CSharpProject\\shopapp\\shopapp.business\\shopapp.business.csproj": {
+              "projectPath": "C:\\Users\\umit\\Documents\\CSharpProject\\shopapp\\shopapp.business\\shopapp.business.csproj"
             },
-            "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\4-Katmanlı Proje Yapısının Kurulması\\9-Test Verilerinin Otomatik Eklenmesi\\shopapp\\shopapp.data\\shopapp.data.csproj": {
-              "projectPath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\4-Katmanlı Proje Yapısının Kurulması\\9-Test Verilerinin Otomatik Eklenmesi\\shopapp\\shopapp.data\\shopapp.data.csproj"
+            "C:\\Users\\umit\\Documents\\CSharpProject\\shopapp\\shopapp.data\\shopapp.data.csproj": {
+              "projectPath": "C:\\Users\\umit\\Documents\\CSharpProject\\shopapp\\shopapp.data\\shopapp.data.csproj"
             },
-            "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\4-Katmanlı Proje Yapısının Kurulması\\9-Test Verilerinin Otomatik Eklenmesi\\shopapp\\shopapp.entity\\shopapp.entity.csproj": {
-              "projectPath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\4-Katmanlı Proje Yapısının Kurulması\\9-Test Verilerinin Otomatik Eklenmesi\\shopapp\\shopapp.entity\\shopapp.entity.csproj"
+            "C:\\Users\\umit\\Documents\\CSharpProject\\shopapp\\shopapp.entity\\shopapp.entity.csproj": {
+              "projectPath": "C:\\Users\\umit\\Documents\\CSharpProject\\shopapp\\shopapp.entity\\shopapp.entity.csproj"
             }
           }
         }
@@ -1276,7 +1274,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.425\\RuntimeIdentifierGraph.json"
       }
     }
   }
